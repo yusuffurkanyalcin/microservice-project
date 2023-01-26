@@ -1,0 +1,14 @@
+com\yfy\productservice\helper\convertion\ProductConvertorImpl.class
+com\yfy\productservice\repository\ProductRepository.class
+com\yfy\productservice\model\Product.class
+com\yfy\productservice\helper\convertion\ProductConverterIF.class
+com\yfy\productservice\controller\ProductController.class
+com\yfy\productservice\dto\response\ProductResponse.class
+com\yfy\productservice\ProductServiceApplication.class
+com\yfy\productservice\impl\ProductServiceImpl.class
+com\yfy\productservice\service\ProductServiceIF.class
+com\yfy\productservice\dto\request\ProductRequest$ProductRequestBuilder.class
+com\yfy\productservice\dto\response\ProductResponse$ProductResponseBuilder.class
+com\yfy\productservice\dto\request\ProductRequest.class
+com\yfy\productservice\model\Product$ProductBuilder.class
+com\yfy\productservice\helper\convertion\BeanConvertorIF.class

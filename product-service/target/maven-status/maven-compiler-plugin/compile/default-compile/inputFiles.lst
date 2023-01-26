@@ -1,0 +1,11 @@
+C:\Users\yusuf\IdeaProjects\microservice-new\product-service\src\main\java\com\yfy\productservice\repository\ProductRepository.java
+C:\Users\yusuf\IdeaProjects\microservice-new\product-service\src\main\java\com\yfy\productservice\controller\ProductController.java
+C:\Users\yusuf\IdeaProjects\microservice-new\product-service\src\main\java\com\yfy\productservice\helper\convertion\ProductConvertorImpl.java
+C:\Users\yusuf\IdeaProjects\microservice-new\product-service\src\main\java\com\yfy\productservice\impl\ProductServiceImpl.java
+C:\Users\yusuf\IdeaProjects\microservice-new\product-service\src\main\java\com\yfy\productservice\model\Product.java
+C:\Users\yusuf\IdeaProjects\microservice-new\product-service\src\main\java\com\yfy\productservice\dto\request\ProductRequest.java
+C:\Users\yusuf\IdeaProjects\microservice-new\product-service\src\main\java\com\yfy\productservice\helper\convertion\ProductConverterIF.java
+C:\Users\yusuf\IdeaProjects\microservice-new\product-service\src\main\java\com\yfy\productservice\helper\convertion\BeanConvertorIF.java
+C:\Users\yusuf\IdeaProjects\microservice-new\product-service\src\main\java\com\yfy\productservice\ProductServiceApplication.java
+C:\Users\yusuf\IdeaProjects\microservice-new\product-service\src\main\java\com\yfy\productservice\dto\response\ProductResponse.java
+C:\Users\yusuf\IdeaProjects\microservice-new\product-service\src\main\java\com\yfy\productservice\service\ProductServiceIF.java
